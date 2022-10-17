@@ -14,7 +14,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
 </div>
 
 ### :man_technologist: About Me : I am a Junior Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
@@ -42,3 +42,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" width="40" height="40"/>&nbsp;
   
+---
+
+### :fire: My Stats :
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xhionity&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhionity&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
