@@ -25,7 +25,7 @@
 
 - :zap: In my free time, I solve problems on Codewars and learning something new.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-xhionity-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xhionity/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Xhionity-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xhionity/)
 
 ---
 
