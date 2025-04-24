@@ -19,7 +19,6 @@
 
 ### :man_technologist: About Me : I am a Junior Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
-- :telescope: I’m looking for a job like a Web-developer.
 
 - :seedling: I'm not a perfect programmer, but I want to become one.
 
